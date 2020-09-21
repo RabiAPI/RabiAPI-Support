@@ -16,8 +16,8 @@ RabiAPI目前是MacOS平台独占软件，仅在Mac App Store提供下载。
 RabiAPI分为免费的基础版和付费的订阅版，两者都可以使用所有功能，订阅后解锁项目数量限制。
 
 * 免费版本，最多同时使用三个项目
-* 按月订阅，¥12.00 / 每月
-* 按年订阅，¥98.00 / 每年
+* 按月订阅，¥12.00 / 每月，自动续期
+* 按年订阅，¥98.00 / 每年，自动续期
 
 ## 功能特色
 
@@ -58,7 +58,10 @@ Jax-RS是使用`@Path`注解标注的`interface`或`class`
 
 ## Markdown 导出效果预览
 
-所有的接口类型(interface/spring/jax-rs)都可以导出为Markdown格式
+所有的接口类型(interface/spring/jax-rs)都可以导出为`markdown`格式
+
+* 支持导出单个接口或实体类型到Markdown文档
+* 支持导出服务中所有的接口到Markdown文档
 
 <p align='center'><img src="/previews/markdown.png"></p>
 
@@ -66,7 +69,24 @@ Jax-RS是使用`@Path`注解标注的`interface`或`class`
 
 `asciidoc`也是一种轻量级标记语言，在表现效果上相对于`markdown`更加丰富，所有的接口类型(interface/spring/jax-rs)都可以导出为`asciidoc`格式
 
+* 支持导出单个接口或实体类型到asciidoc文档
+* 支持导出服务中所有的接口到asciidoc文档
+
 <p align='center'><img src="/previews/asciidoc.png"></p>
+
+## 接口搜索效果预览
+
+RabiAPI支持通过
+
+* 服务名称
+* 服务的注释
+* 接口名称
+* 接口的注释
+* 接口的请求路径（如果是HTTP接口）
+
+来进行搜索，并高亮显示符合条件的结果
+
+<p align='center'><img src="/previews/search_highlight.png"></p>
 
 ## 自动订阅条款和隐私政策
 
