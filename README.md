@@ -54,13 +54,19 @@ RabiAPI分为免费的基础版和付费的订阅版，两者都可以使用所�
 
 Jax-RS是使用`@Path`注解标注的`interface`或`class`
 
+<p align='center'><img src="/previews/jax_rs.png"></p>
+
 ## Markdown 导出效果预览
 
-所有的接口类型(interface/spring/jax-rs)都可以导出为Markdown格式，
+所有的接口类型(interface/spring/jax-rs)都可以导出为Markdown格式
+
+<p align='center'><img src="/previews/markdown.png"></p>
 
 ## Asciidoc 导出效果预览
 
 `asciidoc`也是一种轻量级标记语言，在表现效果上相对于`markdown`更加丰富，所有的接口类型(interface/spring/jax-rs)都可以导出为`asciidoc`格式
+
+<p align='center'><img src="/previews/asciidoc.png"></p>
 
 ## 自动订阅条款和隐私政策
 
