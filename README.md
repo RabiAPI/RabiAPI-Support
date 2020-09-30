@@ -11,6 +11,11 @@ RabiAPI目前是MacOS平台独占软件，仅在Mac App Store提供下载。
 
 * [Mac App Store](https://apps.apple.com/cn/app/id1524200727)
 
+## 使用指南
+
+ - [使用指南](https://github.com/RabiAPI/RabiAPI-Support/wiki)
+ - 产品支持QQ群：**244365684**
+
 ## 付费方式
 
 RabiAPI分为免费的基础版和付费的订阅版，两者都可以使用所有功能，订阅后解锁项目数量限制。
