@@ -11,6 +11,10 @@ RabiAPI目前是MacOS平台独占软件，仅在Mac App Store提供下载。
 
 * [Mac App Store](https://apps.apple.com/cn/app/id1524200727)
 
+## 版本更新
+
+* [RELEASE_NOTE](/RELEASE_NOTE.md)
+
 ## 使用指南
 
  - [使用指南](https://github.com/RabiAPI/RabiAPI-Support/wiki)
