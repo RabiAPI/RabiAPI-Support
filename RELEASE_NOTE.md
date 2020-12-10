@@ -1,3 +1,8 @@
+### 1.2.4
+
+1. JAR-RS框架，新增对于@Consumes, @Produces, @DefaultValue注解的支持
+2. 修复多个导致项目导入失败的BUG
+3. Spring增加对于@FeignClient接口的支持(Controller写法)
 
 ### 1.2.3
 
