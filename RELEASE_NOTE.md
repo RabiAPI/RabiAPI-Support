@@ -1,3 +1,10 @@
+### 1.2.5
+
+1. 增加对于Spring框架 @Controller 注解的支持
+2. 增加对于 @JsonIgnore 和 @JsonIgnoreProperties 注解的支持
+3. Spring Controller允许继承其它Controller
+4. 增加对于Swagger 2.0 @ApiModel 和 @ApiModelProperty 注解的支持
+
 ### 1.2.4
 
 1. JAR-RS框架，新增对于@Consumes, @Produces, @DefaultValue注解的支持
